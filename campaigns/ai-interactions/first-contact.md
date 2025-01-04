@@ -8,3 +8,4 @@ Even though this was during the second/third ChatGPT hype cycle, it wasn't paid 
 
 > TODO: Include Screencaps of a GPT enabled conversation
 
+Following this, a lot of other communities, a bit more extremist in views (the term `tankies` began to spread) started to cause havoc in their views. Making a lot of neutral players, who simply loved the platform, to question the risk of association. In how, those voices were magnified may be related to how the GPT patterns started being noticed in prior. Although, the 2 main leads behind the Lemmy infrastructure having Communist related profile pictures didn't help either. But, it was tough to leave a really well-built starter pack for a federated powered backend. Especially one, meant for a Reddit like framework.
