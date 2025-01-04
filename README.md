@@ -1,2 +1,6 @@
-# SMTP-0001
-Social Media Threats and Phenomenon from June 2024 - November 2024. Related articles: https://paka.la/posts/2024-12-31
+# SMTI
+Social Media Threat Intelligence
+
+This will be a brief trial study from events that occured July 2023, up until now. I intend to update and conduct monitoring within my free time up until November 2026.
+
+### Base article: https://paka.la/posts/2024-12-31
